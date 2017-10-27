@@ -4,7 +4,7 @@
 ### Skills
 * Web application by Python,Django
 * Server settings for web server and deploy web application
-* Design SOHO Office Network and construct VPN to Datacenter or so on
+* Design and construct SOHO office network
 
 ### Experienced work
 * Create Django application by 2 or 3 members
