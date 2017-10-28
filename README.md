@@ -15,3 +15,6 @@
 * Graduate School of Engineering, Osaka University  at 2017/03
 * Work at Osaka University COOP as programmer and server engineer from 2012/04 (to 2018/03)
 * Executive officer at Takenoko Tech LLC
+
+## Contact
+email: i@p-nitrite.net
