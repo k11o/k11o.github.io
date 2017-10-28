@@ -18,3 +18,8 @@
 
 ## Contact
 email: i@p-nitrite.net
+
+
+## for same lab members
+
+* [How to use ci for latex project(not only for latex repos but programming repos)](how_to_ci.md)
