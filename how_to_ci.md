@@ -29,7 +29,9 @@ jobs:
         - image: kalium40/ubuntu-ja-latex:latest
       steps:
         - checkout
-        - run: uplatex main.tex & uplatex main.tex & uplatex main.tex
+        - run: uplatex main.tex
+        - run: uplatex main.tex
+        - run: uplatex main.tex
         - run: dvipdfmx main.dvi
         - store_artifacts:
             path: main.pdf
@@ -40,7 +42,9 @@ jobs:
         - image: kalium40/ubuntu-ja-latex:latest
       steps:
         - checkout
-        - run: uplatex main.tex & uplatex main.tex & uplatex main.tex
+        - run: uplatex main.tex
+        - run: uplatex main.tex
+        - run: uplatex main.tex
         - run: dvipdfmx main.dvi
         - run: curl -F file=@main.pdf -F channels=#devnull -F token=${SLACK_BOT_API_TOKEN} https://slack.com/api/files.upload
 
