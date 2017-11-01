@@ -14,8 +14,11 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 ```
 ### htmlの作成
-```_layouts/default.html```を作成し，https://github.com/pages-themes/THEME_NAME/blob/master/_layouts/default.htmlを開く．
-```THEME_NAME```は適時変更．上の場合は```cayman```
+```_layouts/default.html```
+を作成し，https://github.com/pages-themes/THEME_NAME/blob/master/_layouts/default.html を開く．
+```THEME_NAME```
+は適時変更．上の場合は
+```cayman```
 
 ### scriptの埋め込み
 headの最後の辺りに
