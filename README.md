@@ -23,3 +23,4 @@ email: i@p-nitrite.net
 ## for same lab members
 
 * [How to use ci for latex project(not only for latex repos but programming repos)](how_to_ci.md)
+* [How to write math equations in github pages](how_to_write_math_equations.md)
