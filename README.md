@@ -20,6 +20,13 @@
 email: i@p-nitrite.net
 
 
+## Cooking Memo
+* [Recipe](https://kalium40.github.io/recipe/)
+* [Consideration about Nikujaga](https://kalium40.github.io/nikujaga/)
+
+
+
+
 ## for same lab members
 
 * [How to use ci for latex project(not only for latex repos but programming repos)](how_to_ci.md)
