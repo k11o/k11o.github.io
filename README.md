@@ -21,8 +21,8 @@ email: i@p-nitrite.net
 
 
 ## Cooking Memo
-* [Recipe](https://kalium40.github.io/recipe/)
-* [Consideration about Nikujaga](https://kalium40.github.io/nikujaga/)
+* [Recipe](/recipe/)
+* [Consideration about Nikujaga](/nikujaga/)
 
 
 
