@@ -2,14 +2,12 @@
 
 ## about me
 ### Skills
-* Web application by Python,Django
+* Web application by Python(Django)
 * Server settings for web server and deploy web application
 * Design and construct SOHO office network
 
 ### Experienced work
-* Create Django application by 2 or 3 members
-* Propose use of continuous integration by Gitlab CI
-* Construct CI environment
+* Build web application
 
 ### Carrer
 * Graduate School of Engineering, Osaka University  at 2017/03
@@ -17,14 +15,12 @@
 * Executive officer at Takenoko Tech LLC
 
 ## Contact
-email: i@p-nitrite.net
+email: kono@takenoko-tech.co.jp
 
 
 ## Cooking Memo
 * [Recipe](/recipe/)
 * [Consideration about Nikujaga](/nikujaga/)
-
-
 
 
 ## for same lab members
