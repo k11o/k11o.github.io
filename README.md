@@ -13,7 +13,7 @@
 * Graduate School of Engineering, Osaka University  at 2017/03
 * Work at Osaka University COOP as programmer and server/network engineer from 2012/04 (to 2018/03)
 * Executive officer at Takenoko Tech LLC
-* Cloud Support Engineer at Amazon Web Service Japan K.K
+* Cloud Support Engineer at Amazon Web Service Japan K.K from 2018/02
 
 ## Contact
 email: kono@takenoko-tech.co.jp
